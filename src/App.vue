@@ -217,7 +217,6 @@ export default {
       following: [
         {src: 'najwa.jpg', name: 'Najwa Shihab', handle: '@NajwaShihab', time: '25mnt', verif: true, tweet: 'Saatnya yang muda yang berperan dengan kreativitas yang tak gampang padam.', comments: '445', retweets: '5.124', like: '2.000'},
         {src: 'detikcom.jpg', name: 'detikcom', handle: '@detikcom', time: '1j', verif: true, tweet: 'Kondisi terkini Tol Cipali yang mengarah ke timur atau Jawa Tengah dan seterusnya masih terpantau padat walaupun sudah diberlakukan contra flow.', comments: '10', retweets: '50', like: '67'},
-        {src: 'badmintalk.jpg', name: 'Badminton Talk', handle: '@BadmintonTalk', time: '2j', verif: true, tweet: 'Tim Indonesia Juara Thomas Cup 2022!', comments: '76.809', retweets: '100.678.991', like: '170.819.455'},
         {src: 'shin.jpg', name: 'Shin Tae Yong', handle: '@shintaeyong', time: '4j', verif: false, tweet: 'Annyeonghaseyo', comments: '230.080', retweets: '2.457.000', like: '10.676.000'},
         {src: 'motogp.jpg', name: 'MotoGP™🏁', handle: '@MotoGP', time: '12j', verif: true, tweet: 'New circuits provide new challenges, and the fastest learners will earn the ultimate reward! #IndonesianGP', comments: '26.000', retweets: '502.000', like: '132.990'},
         {src: 'willy.jpg', name: 'willy', handle: '@willythekid', time: '1hr', verif: false, tweet: 'siapa mau ikut nonton KKN Desa Penari', comments: '569', retweets: '980', like: '1.908'},
